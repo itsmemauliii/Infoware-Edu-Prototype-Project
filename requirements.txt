@@ -1,9 +1,0 @@
-pdfplumber
-python-pptx
-moviepy
-Pillow
-sentence-transformers
-transformers
-pyttsx3
-numpy
-tqdm
